@@ -135,5 +135,39 @@ body{
     margin-top: 150px;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
-    border: 1px solid red;
+    /* border: 1px solid red; */
+}
+.third-sections-images{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 150px;
+  
+   
+}
+.third-sections-frist-images{
+    width: 372px;
+    min-height: 172px;
+    text-align: center;
+    margin: 86px 100px 87px 176px;
+    /* border: 1px solid rebeccapurple; */
+}
+.third-sections-second-images{
+    width: 316px;
+    text-align: center;
+    min-height: 172px;
+    margin: 86px 100px 87px 100px;
+    /* border: 1px solid rebeccapurple; */
+
+}
+.third-sections-third-images{
+    text-align: center;
+    width: 202px;
+    min-height: 147px;
+    margin: 86px 100px 87px 175px;
+    /* border: 1px solid rebeccapurple; */
+}
+.third-last-text{
+    font-size: 16px;
+    color: grey;
 }
